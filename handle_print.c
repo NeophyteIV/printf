@@ -8,6 +8,7 @@
  * @flags: Calculates active flags
  * @width: get width.
  * @precision: Precision specification
+ * by Andrew and Sike
  * @size: Size specifier
  * Return: 1 or 2;
  */
